@@ -7,6 +7,7 @@
 3. [Sum of two](./3.c)
 4. [Product of two decimals](./4.c)
 5. [Gets ASCII char](./5.c)
+6. [Gets result of devide by two numbers](./6.c)
 
 ---
 
